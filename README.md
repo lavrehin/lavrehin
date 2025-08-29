@@ -1,13 +1,11 @@
-## Hi there 
+## hi 
 
-I'm Python backend developer.
+i'm python backend developer
 
-Now I'm all into my project [bookshelf](https://t.me/webbshelf)
-
-Achievements:
-- [DANO Olympiad](https://dano.hse.ru), winner, December 2024
-- [PROD hackathon](https://prodcontest.ru), 20 of 36 teams, November 2024
+entries:
+- [DANO Olympiad](https://dano.hse.ru), winner, december '24
+- [PROD hackathon](https://prodcontest.ru), 20 out of 36 teams, november '24
   
-Reach me at [@webbnm](https://t.me/webbnm) in Telegram or at [lavrehinvl@ya.ru](mailto:lavrehinvl@ya.ru) via e-mail
+reach me at [@lavrehin](https://t.me/webbnm) in telegram or at [lavrehinvl@ya.ru](mailto:lavrehinvl@ya.ru) via email
 
-You can also check my links on [lavrehin.me](https://lavrehin.me)
+u can also check my links on [lavrehin.me](https://lavrehin.me)
